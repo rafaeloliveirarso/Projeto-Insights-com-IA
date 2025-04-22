@@ -30,8 +30,6 @@ Mapa ou gráfico com os países mais frequentes. Esta análise foi realizada, ma
 ## Conclusão
 Este projeto forneceu insights valiosos sobre as vendas de produtos, ajudando a identificar tendências, entender o público-alvo e otimizar estratégias de marketing e logística. As planilhas geradas podem ser usadas para análises futuras e tomada de decisões informadas.
 
-Se precisar de mais alguma análise ou visualização, estou à disposição!
-
 ### COMO ME ENCONTRAR?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeloliveirarso/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaeloliveirarso)
