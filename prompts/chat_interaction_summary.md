@@ -93,9 +93,6 @@ Aqui estão os produtos com a menor receita, ordenados do menor para o maior:
 
 ### 5. Faixa Etária dos Compradores
 A planilha com a idade dos compradores foi gerada com sucesso. Você pode baixá-la usando o link abaixo:
-
-[buyer_ages.xlsx](^23^)
-
 Essa planilha contém os nomes dos compradores e suas respectivas idades, o que pode ajudar a entender melhor o público-alvo.
 
 ### 6. Distribuição Geográfica dos Compradores
@@ -105,16 +102,13 @@ Mapa ou gráfico com países mais frequentes.
 As planilhas solicitadas foram geradas com sucesso. Aqui estão os links para download:
 
 #### Total de Vendas por Produto
-- [total_sales_by_product.xlsx](^48^)
 
 #### Receita por Site/Plataforma
-- [revenue_by_site.xlsx](^47^)
 
 #### Receita por País de Entrega
-- [revenue_by_country.xlsx](^46^)
 
 #### Evolução das Vendas ao Longo do Tempo
-- [sales_evolution.xlsx](^47^)
 
 #### Faixa Etária dos Compradores
-- [buyer_ages.xlsx](^40^)
+
+# TODAS AS PLANILHAS ESTÃO DENTRO DA PASTA INSIGHTS
